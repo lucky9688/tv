@@ -1,0 +1,120 @@
+{
+    "urls": [
+        {
+            "name": "饭太硬1",
+            "url": "http://www.xn--sss604efuw.cc/tv"
+        },
+        {
+            "name": "饭太硬2",
+            "url": "http://www.xn--sss604efuw.net/tv"
+        },
+        {
+            "name": "饭太硬3",
+            "url": "http://www.xn--sss604efuw.art/tv"
+        },
+        {
+            "name": "饭太硬4",
+            "url": "http://fty.888484.xyz/tv"
+        },
+        {
+            "name": "饭太硬5",
+            "url": "http://fty.333232.xyz/tv"
+        },
+        {
+            "name": "肥猫1",
+            "url": "http://xn--z7x900a.net"
+        },
+        {
+            "name": "肥猫2",
+            "url": "https://w.junce.dpdns.org/fm.gif"
+        },
+        {
+            "name": "王小二1",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top"
+        },
+        {
+            "name": "王小二2",
+            "url": "https://9280.kstore.vip/newwex.json"
+        },
+        {
+            "name": "春秋1",
+            "url": "http://yydsok.com/api/bendi/yydsapi/ff/api.json"
+        },
+        {
+            "name": "春秋2",
+            "url": "http://yydsok.com/api/bendi/yydsapi/nf/api.json"
+        },
+        {
+            "name": "春秋3",
+            "url": "http://yydsok.com/api/bendi/yydsapi/og/api.json"
+        },
+        {
+            "name": "春秋4",
+            "url": "http://yydsok.com/api/bendi/yydsapi/feim/api.json"
+        },
+        {
+            "name": "南风",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+        },
+        {
+            "name": "刘备",
+            "url": "https://raw.liucn.cc/box/m.json"
+        },
+        {
+            "name": "小苹果",
+            "url": "http://chunqiuss.com/api/ysc/yschz.json"
+        },
+        {
+            "name": "多咪",
+            "url": "https://d.kstore.dev/download/4071/api/api.json"
+        },
+        {
+            "name": "时光",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+        },
+        {
+            "name": "盒子迷",
+            "url": "https://xn--i8sz35d1yr.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96"
+        },
+        {
+            "name": "Clun",
+            "url": "https://clun.top/box.json"
+        },
+        {
+            "name": "俊佬",
+            "url": "http://home.jundie.top:81/top98.json"
+        },
+        {
+            "name": "小虎斑",
+            "url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95"
+        },
+        {
+            "name": "分享者",
+            "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json"
+        },
+        {
+            "name": "雷蒙",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"
+        },
+        {
+            "name": "小凯",
+            "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json"
+        },
+        {
+            "name": "香雅情",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+        },
+        {
+            "name": "非凡",
+            "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json"
+        },
+        {
+            "name": "菜妮丝",
+            "url": "https://tv.xn--yhqu5zs87a.top"
+        },
+        {
+            "name": "蜗牛",
+            "url": "https://tv.xn--11x555b.top/svip"
+        }
+    ]
+}
