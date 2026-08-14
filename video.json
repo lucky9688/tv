@@ -19,6 +19,15 @@
       "filterable": 0
     },
     {
+      "key": "CK资源",
+      "name": "CK",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "dadiapi.com",
       "name": "大地",
       "type": 0,
@@ -253,10 +262,10 @@
       "filterable": 0
     },
     {
-      "key": "玉兔资源",
-      "name": "玉兔",
-      "type": 0,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
+      "key": "Xxibaoziyuan",
+      "name": "细胞",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -266,15 +275,6 @@
       "name": "玉兔",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Xxibaoziyuan",
-      "name": "细胞",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
