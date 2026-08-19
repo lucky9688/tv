@@ -26,7 +26,7 @@
         },
         {
             "name": "肥猫2",
-            "url": "http://肥猫.net/tv"
+            "url": "http://xn--z7x900a.net/tv"
         },
         {
             "name": "肥猫3",
@@ -39,10 +39,6 @@
         {
             "name": "王小二2",
             "url": "https://9280.kstore.vip/newwex.json"
-        },
-        {
-            "name": "王小二3",
-            "url": "http://new.王二小放牛娃.top"
         },
         {
             "name": "春秋1",
@@ -74,15 +70,19 @@
         },
         {
             "name": "摸鱼",
-            "url": "http://我不是.摸鱼儿.cc"
+            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc"
         },
         {
             "name": "嗷呜",
             "url": "http://itv666.cc/aowu/config.webp"
         },
         {
+            "name": "巧技",
+            "url": "http://cdn.qiaoji8.com/tvbox.json"
+        },
+        {
             "name": "宝盒",
-            "url": "http://宝盒接口.top"
+            "url": "http://xn--6orr3pi6g9uu.top"
         },
         {
             "name": "小苹果",
@@ -93,7 +93,7 @@
             "url": "https://d.kstore.dev/download/4071/api/api.json"
         },
         {
-            "name": "时光",
+            "name": "拾光",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
         },
         {
@@ -105,7 +105,7 @@
             "url": "https://clun.top/box.json"
         },
         {
-            "name": "万事",
+            "name": "小虎斑",
             "url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95"
         },
         {
