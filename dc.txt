@@ -69,20 +69,8 @@
             "url": "https://xn--jory77o.v.nxog.top/m"
         },
         {
-            "name": "摸鱼",
-            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc"
-        },
-        {
             "name": "嗷呜",
             "url": "http://itv666.cc/aowu/config.webp"
-        },
-        {
-            "name": "巧技",
-            "url": "http://cdn.qiaoji8.com/tvbox.json"
-        },
-        {
-            "name": "宝盒",
-            "url": "http://xn--6orr3pi6g9uu.top"
         },
         {
             "name": "小苹果",
