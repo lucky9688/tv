@@ -154,15 +154,6 @@
       "filterable": 0
     },
     {
-      "key": "lebo",
-      "name": "乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "senlinziyuan",
       "name": "森林资源",
       "type": 1,
@@ -182,7 +173,7 @@
     },
     {
       "key": "91shipin",
-      "name": "91视频资源",
+      "name": "91AV资源",
       "type": 1,
       "api": "https://91av.cyou/api.php/provide/vod/",
       "searchable": 1,
@@ -209,7 +200,7 @@
     },
     {
       "key": "jkunzy.com",
-      "name": "jkun(直连)",
+      "name": "鸡坤(直连)",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -326,7 +317,7 @@
     },
     {
       "key": "apilj.com",
-      "name": "lj资源",
+      "name": "辣椒资源",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -335,7 +326,7 @@
     },
     {
       "key": "91md.me",
-      "name": "91md资源",
+      "name": "91麻豆资源",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -426,15 +417,6 @@
     {
       "key": "色猫",
       "name": "色猫 | 采集",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "色猫",
-      "name": "色猫2 | 采集",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
