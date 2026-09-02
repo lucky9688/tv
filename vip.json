@@ -347,8 +347,9 @@
       "api": "csp_XMVideo",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-    },    {
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },
+    {
       "key": "精品资源站",
       "name": "精品 | 采集",
       "type": 1,
@@ -1277,7 +1278,7 @@
     },
     {
       "key": "*色南国资源",
-      "name": "*🔞色南国资源",
+      "name": "🔞色南国资源",
       "type": 1,
       "api": "https://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1286,7 +1287,7 @@
     },
     {
       "key": "*皇冠资源",
-      "name": "*🔞皇冠资源",
+      "name": "🔞皇冠资源",
       "type": 1,
       "api": "https://hghhh.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1295,7 +1296,7 @@
     },
     {
       "key": "*AIvin",
-      "name": "*🔞AIvin",
+      "name": "🔞AIvin",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1304,7 +1305,7 @@
     },
     {
       "key": "(18+)SS资源",
-      "name": "*🔞SS资源",
+      "name": "🔞SS资源",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -1313,7 +1314,7 @@
     },
     {
       "key": "精工厂",
-      "name": "*🔞精工厂",
+      "name": "🔞精工厂",
       "type": 0,
       "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
       "searchable": 1,
@@ -1322,7 +1323,7 @@
     },
     {
       "key": "美少女",
-      "name": "*🔞美少女",
+      "name": "🔞美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -1331,7 +1332,7 @@
     },
     {
       "key": "哥哥妹妹",
-      "name": "*🔞有哥妹",
+      "name": "🔞有哥妹",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
@@ -1340,7 +1341,7 @@
     },
     {
       "key": "*CK资源",
-      "name": "*🔞纯在线",
+      "name": "🔞CK在线",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1349,7 +1350,7 @@
     },
     {
       "key": "*博天堂",
-      "name": "*🔞博天堂",
+      "name": "🔞博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -1358,7 +1359,7 @@
     },
     {
       "key": "*色猫资源",
-      "name": "*🔞色猫资源",
+      "name": "🔞色猫资源",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -1367,7 +1368,7 @@
     },
     {
       "key": "小姐姐资源",
-      "name": "*🔞小姐姐资源",
+      "name": "🔞小姐姐资源",
       "type": 0,
       "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
       "searchable": 1,
@@ -1376,7 +1377,7 @@
     },
     {
       "key": "*精工厂资源",
-      "name": "*🔞精工厂资源",
+      "name": "🔞精工厂资源",
       "type": 0,
       "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
       "searchable": 1,
@@ -1385,7 +1386,7 @@
     },
     {
       "key": "*大MM资源",
-      "name": "*🔞大MM资源",
+      "name": "🔞大MM资源",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
       "searchable": 1,
@@ -1394,7 +1395,7 @@
     },
     {
       "key": "*美少女资源",
-      "name": "*🔞美少女资源",
+      "name": "🔞美少女资源",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -1403,7 +1404,7 @@
     },
     {
       "key": "*淫水机资源",
-      "name": "*🔞淫水机资源",
+      "name": "🔞淫水机资源",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -1412,7 +1413,7 @@
     },
     {
       "key": "*香奶儿资源",
-      "name": "*🔞香奶儿资源",
+      "name": "🔞香奶儿资源",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -1421,7 +1422,7 @@
     },
     {
       "key": "*白嫖资源",
-      "name": "*🔞白嫖资源",
+      "name": "🔞白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -1430,7 +1431,7 @@
     },
     {
       "key": "*大地资源",
-      "name": "*🔞大地资源",
+      "name": "🔞大地资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 1,
@@ -1439,7 +1440,7 @@
     },
     {
       "key": "*CK资源",
-      "name": "*🔞CK资源",
+      "name": "🔞CK资源",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1448,7 +1449,7 @@
     },
     {
       "key": "*老鸭资源",
-      "name": "*🔞老鸭资源",
+      "name": "🔞老鸭资源",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1457,7 +1458,7 @@
     },
     {
       "key": "老鸭2",
-      "name": "*🔞老鸭2",
+      "name": "🔞老鸭",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1844,7 +1845,7 @@
     },
     {
       "key": "*乐播资源",
-      "name": "*🔞乐播资源",
+      "name": "🔞乐播资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1853,7 +1854,7 @@
     },
     {
       "key": "*博天堂",
-      "name": "*🔞博天堂",
+      "name": "🔞博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -1889,7 +1890,7 @@
     },
     {
       "key": "*色色资源",
-      "name": "*🔞色色资源",
+      "name": "🔞色色资源",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -1898,7 +1899,7 @@
     },
     {
       "key": "*狼少年",
-      "name": "*🔞狼少年",
+      "name": "🔞狼少年",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -1907,7 +1908,7 @@
     },
     {
       "key": "*番号资源",
-      "name": "*🔞番号资源",
+      "name": "🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1916,7 +1917,7 @@
     },
     {
       "key": "*速度资源",
-      "name": "*🔞速度资源",
+      "name": "🔞速度资源",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
@@ -1925,7 +1926,7 @@
     },
     {
       "key": "*KK写真资源",
-      "name": "*🔞KK写真资源",
+      "name": "🔞KK写真资源",
       "type": 1,
       "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
