@@ -69,10 +69,6 @@
             "url": "https://9877.kstore.space/one.json"
         },
         {
-            "name": "讴歌",
-            "url": "https://xn--jory77o.v.nxog.top/m"
-        },
-        {
             "name": "嗷呜",
             "url": "http://itv666.cc/aowu/config.webp"
         },
