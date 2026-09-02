@@ -41,6 +41,10 @@
             "url": "https://9280.kstore.vip/newwex.json"
         },
         {
+            "name": "摸鱼",
+            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc"
+        },
+        {
             "name": "春秋1",
             "url": "http://yydsok.com/api/bendi/yydsapi/ff/api.json"
         },
@@ -99,6 +103,14 @@
         {
             "name": "雷蒙",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"
+        },
+        {
+            "name": "东篱",
+            "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"
+        },
+        {
+            "name": "驸马",
+            "url": "http://fmys.top/fmys.json"
         },
         {
             "name": "香雅情",
