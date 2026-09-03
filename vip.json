@@ -981,7 +981,7 @@
     },
     {
       "key": "葡萄",
-      "name": ".葡萄资源",
+      "name": "葡萄资源",
       "type": 1,
       "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
       "searchable": 1,
