@@ -1,39 +1,39 @@
 {
-  "sites": [
+  "站点": [
     {
       "key": "0",
-      "name": "电影天堂",
-      "type": 1,
+      "名称": "电影天堂",
+      "类型": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "可搜索的": 1,
+      "快速搜索": 1,
+      "可筛选": 0
     },
     {
       "key": "非凡",
-      "name": "非凡资源",
-      "type": 0,
+      "名称": "非凡资源",
+      "类型": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "可搜索的": 1,
+      "快速搜索": 1,
+      "可筛选": 0
     },
     {
       "key": "量子",
-      "name": "量子资源",
-      "type": 0,
+      "名称": "量子资源",
+      "类型": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "可搜索的": 1,
+      "快速搜索": 1,
+      "可筛选": 0
     },
     {
       "key": "1",
-      "name": "量子资源",
-      "type": 1,
+      "名称": "量子资源",
+      "类型": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
+      "可搜索的": 1,
+      "快速搜索": 1,
       "filterable": 0
     },
     {
@@ -149,15 +149,6 @@
       "name": "豪华资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "16",
-      "name": "CK资源",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
