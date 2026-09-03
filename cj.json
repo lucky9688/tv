@@ -353,7 +353,7 @@
     },
     {
       "key": "虎牙",
-      "name": "虎牙采集",
+      "name": "虎牙資源",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
