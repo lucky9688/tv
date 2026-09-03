@@ -1,38 +1,38 @@
 {
-  "站点": [
+  "sites": [
     {
-      "名称": "首页",
-      "类型": 0,
-      "可搜索的": 1,
-      "快速搜索": 1,
-      "可筛选": 0
+      "name": "首页",
+      "type": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "dadiapi.com",
-      "名称": "大地资源",
-      "类型": 0,
+      "name": "大地资源",
+      "type": 0,
       "api": "http://dadiapi.com/api.php",
-      "可搜索的": 1,
-      "快速搜索": 1,
-      "可筛选": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "大地",
-      "名称": "大地资源",
-      "类型": 0,
+      "name": "大地资源",
+      "type": 0,
       "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
-      "可搜索的": 1,
-      "快速搜索": 1,
-      "可筛选": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "baipiao",
-      "名称": "白嫖资源",
-      "类型": 1,
+      "name": "白嫖资源",
+      "type": 1,
       "api": "https://www.kxgav.com/api/json.php",
-      "可搜索的": 1,
-      "快速搜索": 1,
-      "可筛选": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "淫水机",
@@ -845,6 +845,15 @@
       "filterable": 0
     },
     {
+      "key": "虎牙",
+      "name": "虎牙采集",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "快云资源",
       "name": "快云资源",
       "type": 1,
@@ -1179,7 +1188,7 @@
     },
     {
       "key": "哥哥妹妹",
-      "name": "有哥妹",
+      "name": "哥妹",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
@@ -1195,7 +1204,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-   {
+    {
       "key": "16",
       "name": "CK资源",
       "type": 1,
