@@ -352,6 +352,15 @@
       "filterable": 0
     },
     {
+      "key": "虎牙",
+      "name": "虎牙采集",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "41",
       "name": "金鹰资源",
       "type": 1,
